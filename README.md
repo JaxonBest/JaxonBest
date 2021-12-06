@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaxonBest
+- 👀 I’m interested in **Python** and learning **Rust**.
+- 🌱 I’m currently attempting to learn Rust because I want speed to be the best out of everything in my programs.
+- 💞️ I’m looking to collaborate on Python projects and **Discord Bots** as I have been making those for quite a while. 
+- 📫 You can contact me through **jaxonbest@outlook.com** or my Discord **Jaxon#0001**
